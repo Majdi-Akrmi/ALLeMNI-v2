@@ -57,7 +57,7 @@ const CreateCourse = () => {
                 </h1>
                 <p className="text-sm text-slate-600">
                     What would you like to name your course ? Don't worry, 
-                    you can chage it later
+                    you can change it later
                 </p>
                 <Form {...form}>
                     <form
